@@ -1,16 +1,17 @@
-## Hi there 👋
-
 <!--
-**Sebastianrodaaa/Sebastianrodaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  This card is generated, not hand-written.
 
-Here are some ideas to get you started:
+  Edit profile.json to change what it says, then either push (the Action
+  rebuilds on any change to profile.json) or run it yourself:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+      ACCESS_TOKEN=<your-pat> python3 generate_svgs.py
+
+  See SETUP.md for the one-time token setup.
 -->
+
+<a href="https://github.com/Sebastianrodaaa">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sebastianrodaaa/Sebastianrodaaa/main/dark_mode.svg">
+    <img alt="Sebastian Roda's GitHub profile card" src="https://raw.githubusercontent.com/Sebastianrodaaa/Sebastianrodaaa/main/light_mode.svg">
+  </picture>
+</a>
