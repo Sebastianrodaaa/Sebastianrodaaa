@@ -44,8 +44,8 @@ text { white-space: pre; dominant-baseline: middle; }
 <text x="365.5" y="366.5"><tspan class="key">Contact.X</tspan><tspan class="dim"> ............... </tspan><tspan class="value">@your-handle</tspan></text>
 <text x="365.5" y="385.5"><tspan class="key">Contact.Discord</tspan><tspan class="dim"> ......... </tspan><tspan class="value">your-handle</tspan></text>
 <text x="365.5" y="423.5"><tspan class="key">GitHub.Repos</tspan><tspan class="dim"> ............ </tspan><tspan class="value">2 public · 0 contributed</tspan></text>
-<text x="365.5" y="442.5"><tspan class="key">GitHub.Commits</tspan><tspan class="dim"> .......... </tspan><tspan class="value">4</tspan></text>
+<text x="365.5" y="442.5"><tspan class="key">GitHub.Commits</tspan><tspan class="dim"> .......... </tspan><tspan class="value">6</tspan></text>
 <text x="365.5" y="461.5"><tspan class="key">GitHub.Stars</tspan><tspan class="dim"> ............ </tspan><tspan class="value">0 · 0 forks</tspan></text>
 <text x="365.5" y="480.5"><tspan class="key">GitHub.Followers</tspan><tspan class="dim"> ........ </tspan><tspan class="value">1</tspan></text>
-<text x="365.5" y="499.5"><tspan class="key">GitHub.LinesOfCode</tspan><tspan class="dim"> ...... </tspan><tspan class="value">742 (</tspan><tspan class="add">+764</tspan><tspan class="value">, </tspan><tspan class="del">-22</tspan><tspan class="value">)</tspan></text>
+<text x="365.5" y="499.5"><tspan class="key">GitHub.LinesOfCode</tspan><tspan class="dim"> ...... </tspan><tspan class="value">742 (</tspan><tspan class="add">+770</tspan><tspan class="value">, </tspan><tspan class="del">-28</tspan><tspan class="value">)</tspan></text>
 </svg>
