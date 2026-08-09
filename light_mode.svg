@@ -27,8 +27,8 @@ text { white-space: pre; dominant-baseline: middle; }
 <text x="26" y="339.0"><tspan class="art">  │    &gt; building things </tspan><tspan class="cursor">█</tspan><tspan class="art">      │</tspan></text>
 <text x="26" y="354.0"><tspan class="art">  │                             │</tspan></text>
 <text x="26" y="369.0"><tspan class="art">  └─────────────────────────────┘</tspan></text>
-<text x="365.5" y="43.5"><tspan class="accent">sebastian@github</tspan></text>
-<text x="365.5" y="62.5"><tspan class="dim">────────────────</tspan></text>
+<text x="365.5" y="43.5"><tspan class="accent">sebastian@rodaventuresllc.com</tspan></text>
+<text x="365.5" y="62.5"><tspan class="dim">─────────────────────────────</tspan></text>
 <text x="365.5" y="81.5"><tspan class="key">OS</tspan><tspan class="dim"> ...................... </tspan><tspan class="value">macOS · Ubuntu 24.04 LTS</tspan></text>
 <text x="365.5" y="100.5"><tspan class="key">Uptime</tspan><tspan class="dim"> .................. </tspan><tspan class="value">2 years, 2 months, 21 days (since 18 May 2024)</tspan></text>
 <text x="365.5" y="119.5"><tspan class="key">Host</tspan><tspan class="dim"> .................... </tspan><tspan class="value">Serial Hackathon Winner</tspan></text>
