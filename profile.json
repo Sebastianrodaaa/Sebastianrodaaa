@@ -49,14 +49,10 @@
     ["Stack.Onchain", "Monad · Foundry · viem · wagmi"],
     [],
     ["Contact.Email", "sebastian@rodaventuresllc.com"],
-    ["Contact.LinkedIn", "in/your-handle"],
-    ["Contact.X", "@your-handle"],
-    ["Contact.Discord", "your-handle"],
+    ["Contact.LinkedIn", "in/sebastian-roda"],
+    ["Contact.X", "@sebastianrodaaa"],
+    ["Contact.Discord", "sroda15"],
     [],
-    ["GitHub.Repos", "{{repos}} public · {{contributed}} contributed"],
-    ["GitHub.Commits", "{{commits}}"],
-    ["GitHub.Stars", "{{stars}} · {{forks}} forks"],
-    ["GitHub.Followers", "{{followers}}"],
-    ["GitHub.LinesOfCode", "{{loc_total}} ([++{{loc_add}}], [--{{loc_del}}])"]
+    ["GitHub.Commits", "{{commits}}"]
   ]
 }

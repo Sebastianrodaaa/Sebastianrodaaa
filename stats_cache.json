@@ -2,12 +2,12 @@
   "account_created": "2024-05-18T17:25:47Z",
   "followers": 1,
   "contributed": 0,
-  "repos": 2,
+  "repos": 27,
   "stars": 0,
   "forks": 0,
   "commits": 6,
-  "loc_add": 770,
-  "loc_del": 28,
+  "loc_add": 3029254,
+  "loc_del": 123957,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
       "additions": 3,
@@ -18,6 +18,131 @@
       "additions": 767,
       "deletions": 18,
       "oid": "5f2bef2e0a2e2aa59524ccdb4be6c1cb84f3726d"
+    },
+    "Sebastianrodaaa/Arc": {
+      "additions": 76846,
+      "deletions": 25296,
+      "oid": "2771d79be0b17a6896e1c71de520eda9eb34b22e"
+    },
+    "Sebastianrodaaa/visual-acceleration": {
+      "additions": 1724,
+      "deletions": 722,
+      "oid": "3d29205d022a142506686496f1ed62873b15db31"
+    },
+    "Sebastianrodaaa/noem-nextjs-boilerplate": {
+      "additions": 1279962,
+      "deletions": 618,
+      "oid": "549432cc486d515057692281da1a172b6584b438"
+    },
+    "Sebastianrodaaa/NOEM-APP": {
+      "additions": 52176,
+      "deletions": 14490,
+      "oid": "cc258f2b82daaebe2ead07b4c8a466545a3f83e6"
+    },
+    "Sebastianrodaaa/GEMINI3HACKATHONNYC": {
+      "additions": 14037,
+      "deletions": 2531,
+      "oid": "fa436dbba25573cd673b9dd4e5808bfe521d501e"
+    },
+    "Sebastianrodaaa/SEBSOCIAL": {
+      "additions": 15045,
+      "deletions": 114,
+      "oid": "b9f30bcbc20db82328b044c2eaad0755e16cd47b"
+    },
+    "Sebastianrodaaa/SebastianRoda-Fordham-hackathon": {
+      "additions": 41232,
+      "deletions": 5381,
+      "oid": "dee902b3e88a7bee266b2a5c13a37573a43e7f4e"
+    },
+    "Sebastianrodaaa/happy-bday-dad": {
+      "additions": 7203,
+      "deletions": 82,
+      "oid": "528672655ced8fcba119097f5aec8ddbbfa4dbce"
+    },
+    "Sebastianrodaaa/shithead": {
+      "additions": 12067,
+      "deletions": 409,
+      "oid": "6fd7c50449085a2df772eef74eeca296ff69ba14"
+    },
+    "Sebastianrodaaa/Roda-fineart-nextjs": {
+      "additions": 10408,
+      "deletions": 1931,
+      "oid": "a9d1f660ee2ed1e7413952633e4730cfa2d3369f"
+    },
+    "Sebastianrodaaa/arc-nextjs-commerce": {
+      "additions": 5780,
+      "deletions": 0,
+      "oid": "7d0198a0f1096ba9e34ace7c75f877ccda9d7676"
+    },
+    "Sebastianrodaaa/arc-nextjs-boilerplate": {
+      "additions": 0,
+      "deletions": 0,
+      "oid": null
+    },
+    "Sebastianrodaaa/archoops-nextjs-boilerplate": {
+      "additions": 69068,
+      "deletions": 25062,
+      "oid": "f0370034e7831709d4fe3099d25aeb363168643b"
+    },
+    "Sebastianrodaaa/org-simulator": {
+      "additions": 13887,
+      "deletions": 1061,
+      "oid": "493e119ade0c3e7c26fdd7865ac7ca13f944013c"
+    },
+    "Sebastianrodaaa/DRONE-DEMO": {
+      "additions": 0,
+      "deletions": 0,
+      "oid": null
+    },
+    "Sebastianrodaaa/IMMIGRANTHACKATHON": {
+      "additions": 63,
+      "deletions": 1,
+      "oid": "b57995aaae603c3b7a7ae19f6e04f14f7091ffd2"
+    },
+    "Sebastianrodaaa/CRM-PERSONAL": {
+      "additions": 885,
+      "deletions": 0,
+      "oid": "4d767fd1e91789d07fa0cd2019f428ddd9e96933"
+    },
+    "Sebastianrodaaa/BUDDYYY": {
+      "additions": 2,
+      "deletions": 0,
+      "oid": "37df56fe1c64ee30540da7ea278c17802ffdd2a0"
+    },
+    "Sebastianrodaaa/7marae": {
+      "additions": 1502,
+      "deletions": 16,
+      "oid": "a920e3281f4621730aa2f4edc9b5c43364937860"
+    },
+    "Sebastianrodaaa/EDTHHACK": {
+      "additions": 131009,
+      "deletions": 346,
+      "oid": "6b3acaef8cb7606f1ba4676bea90673a86662a1b"
+    },
+    "Sebastianrodaaa/LIT_WIKI": {
+      "additions": 11916,
+      "deletions": 0,
+      "oid": "d6caf66328b6da1d07eeb93fdf7e606a49e5c3f3"
+    },
+    "Sebastianrodaaa/system-library-skill": {
+      "additions": 151085,
+      "deletions": 15879,
+      "oid": "0018d1a52989e6462d2b698e41ac4ab901ab6e7d"
+    },
+    "Sebastianrodaaa/libraries": {
+      "additions": 773300,
+      "deletions": 2817,
+      "oid": "3e5b33f24abd8a66fefd1da3f6a8fc4f27e0280f"
+    },
+    "Sebastianrodaaa/noem-library-skill": {
+      "additions": 40095,
+      "deletions": 3288,
+      "oid": "fdb76ede5d8a457736b24946040cc21bc1baa41f"
+    },
+    "Sebastianrodaaa/Ui-Library": {
+      "additions": 319192,
+      "deletions": 23885,
+      "oid": "1a3bb99701a1b63a01341d6d75deb0fb863b2aca"
     }
   }
 }
