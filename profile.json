@@ -51,8 +51,6 @@
     ["Contact.Email", "sebastian@rodaventuresllc.com"],
     ["Contact.LinkedIn", "in/sebastian-roda"],
     ["Contact.X", "@sebastianrodaaa"],
-    ["Contact.Discord", "sroda15"],
-    [],
-    ["GitHub.Commits", "{{commits}}"]
+    ["Contact.Discord", "sroda15"]
   ]
 }
