@@ -1,0 +1,62 @@
+{
+  "_comment": [
+    "This is the ONLY file you need to edit to change what the card says.",
+    "Rows are [label, value] pairs. An empty array [] renders a blank line.",
+    "",
+    "Placeholders replaced with live GitHub data at build time:",
+    "  {{uptime}}  {{account_created}}  {{repos}}  {{contributed}}",
+    "  {{commits}}  {{stars}}  {{forks}}  {{followers}}",
+    "  {{loc_total}}  {{loc_add}}  {{loc_del}}",
+    "",
+    "Inline colour markup, usable in values and in the ASCII art:",
+    "  [+text]  green    [-text]  red    [*text]  accent    [~text]  blinking",
+    "",
+    "The SVG canvas resizes itself to fit, so long lines will never be clipped."
+  ],
+
+  "login": "Sebastianrodaaa",
+  "title": "sebastian@github",
+
+  "art": [
+    "  ┌─────────────────────────────┐",
+    "  │  o  o  o                    │",
+    "  ├─────────────────────────────┤",
+    "  │                             │",
+    "  │    [*███████╗ ██████╗ ]        │",
+    "  │    [*██╔════╝ ██╔══██╗]        │",
+    "  │    [*███████╗ ██████╔╝]        │",
+    "  │    [*╚════██║ ██╔══██╗]        │",
+    "  │    [*███████║ ██║  ██║]        │",
+    "  │    [*╚══════╝ ╚═╝  ╚═╝]        │",
+    "  │                             │",
+    "  │    > building things [~█]      │",
+    "  │                             │",
+    "  └─────────────────────────────┘"
+  ],
+
+  "info": [
+    ["OS", "macOS · Ubuntu 24.04 LTS"],
+    ["Uptime", "{{uptime}} (since {{account_created}})"],
+    ["Host", "Serial Hackathon Winner"],
+    ["Kernel", "full-stack · onchain"],
+    ["Editor", "VS Code · Cursor · Claude Code"],
+    [],
+    ["Languages.Programming", "TypeScript · JavaScript · Python · Solidity"],
+    ["Languages.Markup", "HTML · CSS · Markdown · JSON · YAML · SQL"],
+    ["Languages.Spoken", "Spanish · English"],
+    [],
+    ["Stack.Frontend", "React · Next.js · Tailwind"],
+    ["Stack.Onchain", "Monad · Foundry · viem · wagmi"],
+    [],
+    ["Contact.Email", "sebastian@rodaventuresllc.com"],
+    ["Contact.LinkedIn", "in/your-handle"],
+    ["Contact.X", "@your-handle"],
+    ["Contact.Discord", "your-handle"],
+    [],
+    ["GitHub.Repos", "{{repos}} public · {{contributed}} contributed"],
+    ["GitHub.Commits", "{{commits}}"],
+    ["GitHub.Stars", "{{stars}} · {{forks}} forks"],
+    ["GitHub.Followers", "{{followers}}"],
+    ["GitHub.LinesOfCode", "{{loc_total}} ([++{{loc_add}}], [--{{loc_del}}])"]
+  ]
+}

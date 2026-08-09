@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1045" height="543" viewBox="0 0 1045 543" font-family="Consolas, 'Cascadia Mono', 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="15">
+<style>
+text { white-space: pre; dominant-baseline: middle; }
+.key { fill: #953800; font-weight: 600; }
+.value { fill: #0a3069; }
+.dim { fill: #8c959f; }
+.accent { fill: #8250df; font-weight: 600; }
+.add { fill: #1a7f37; }
+.del { fill: #cf222e; }
+.art { fill: #0969da; }
+.cursor { fill: #8250df; animation: blink 1.06s steps(1) infinite; }
+@keyframes blink { 0%, 49% { opacity: 1 } 50%, 100% { opacity: 0 } }
+@media (prefers-reduced-motion: reduce) { .cursor { animation: none } }
+</style>
+<rect x="0.5" y="0.5" width="1044" height="542" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="26" y="174.0"><tspan class="art">  ┌─────────────────────────────┐</tspan></text>
+<text x="26" y="189.0"><tspan class="art">  │  o  o  o                    │</tspan></text>
+<text x="26" y="204.0"><tspan class="art">  ├─────────────────────────────┤</tspan></text>
+<text x="26" y="219.0"><tspan class="art">  │                             │</tspan></text>
+<text x="26" y="234.0"><tspan class="art">  │    </tspan><tspan class="accent">███████╗ ██████╗ </tspan><tspan class="art">        │</tspan></text>
+<text x="26" y="249.0"><tspan class="art">  │    </tspan><tspan class="accent">██╔════╝ ██╔══██╗</tspan><tspan class="art">        │</tspan></text>
+<text x="26" y="264.0"><tspan class="art">  │    </tspan><tspan class="accent">███████╗ ██████╔╝</tspan><tspan class="art">        │</tspan></text>
+<text x="26" y="279.0"><tspan class="art">  │    </tspan><tspan class="accent">╚════██║ ██╔══██╗</tspan><tspan class="art">        │</tspan></text>
+<text x="26" y="294.0"><tspan class="art">  │    </tspan><tspan class="accent">███████║ ██║  ██║</tspan><tspan class="art">        │</tspan></text>
+<text x="26" y="309.0"><tspan class="art">  │    </tspan><tspan class="accent">╚══════╝ ╚═╝  ╚═╝</tspan><tspan class="art">        │</tspan></text>
+<text x="26" y="324.0"><tspan class="art">  │                             │</tspan></text>
+<text x="26" y="339.0"><tspan class="art">  │    &gt; building things </tspan><tspan class="cursor">█</tspan><tspan class="art">      │</tspan></text>
+<text x="26" y="354.0"><tspan class="art">  │                             │</tspan></text>
+<text x="26" y="369.0"><tspan class="art">  └─────────────────────────────┘</tspan></text>
+<text x="365.5" y="43.5"><tspan class="accent">sebastian@github</tspan></text>
+<text x="365.5" y="62.5"><tspan class="dim">────────────────</tspan></text>
+<text x="365.5" y="81.5"><tspan class="key">OS</tspan><tspan class="dim"> ...................... </tspan><tspan class="value">macOS · Ubuntu 24.04 LTS</tspan></text>
+<text x="365.5" y="100.5"><tspan class="key">Uptime</tspan><tspan class="dim"> .................. </tspan><tspan class="value">2 years, 2 months, 21 days (since 18 May 2024)</tspan></text>
+<text x="365.5" y="119.5"><tspan class="key">Host</tspan><tspan class="dim"> .................... </tspan><tspan class="value">Serial Hackathon Winner</tspan></text>
+<text x="365.5" y="138.5"><tspan class="key">Kernel</tspan><tspan class="dim"> .................. </tspan><tspan class="value">full-stack · onchain</tspan></text>
+<text x="365.5" y="157.5"><tspan class="key">Editor</tspan><tspan class="dim"> .................. </tspan><tspan class="value">VS Code · Cursor · Claude Code</tspan></text>
+<text x="365.5" y="195.5"><tspan class="key">Languages.Programming</tspan><tspan class="dim"> ... </tspan><tspan class="value">TypeScript · JavaScript · Python · Solidity</tspan></text>
+<text x="365.5" y="214.5"><tspan class="key">Languages.Markup</tspan><tspan class="dim"> ........ </tspan><tspan class="value">HTML · CSS · Markdown · JSON · YAML · SQL</tspan></text>
+<text x="365.5" y="233.5"><tspan class="key">Languages.Spoken</tspan><tspan class="dim"> ........ </tspan><tspan class="value">Spanish · English</tspan></text>
+<text x="365.5" y="271.5"><tspan class="key">Stack.Frontend</tspan><tspan class="dim"> .......... </tspan><tspan class="value">React · Next.js · Tailwind</tspan></text>
+<text x="365.5" y="290.5"><tspan class="key">Stack.Onchain</tspan><tspan class="dim"> ........... </tspan><tspan class="value">Monad · Foundry · viem · wagmi</tspan></text>
+<text x="365.5" y="328.5"><tspan class="key">Contact.Email</tspan><tspan class="dim"> ........... </tspan><tspan class="value">sebastian@rodaventuresllc.com</tspan></text>
+<text x="365.5" y="347.5"><tspan class="key">Contact.LinkedIn</tspan><tspan class="dim"> ........ </tspan><tspan class="value">in/your-handle</tspan></text>
+<text x="365.5" y="366.5"><tspan class="key">Contact.X</tspan><tspan class="dim"> ............... </tspan><tspan class="value">@your-handle</tspan></text>
+<text x="365.5" y="385.5"><tspan class="key">Contact.Discord</tspan><tspan class="dim"> ......... </tspan><tspan class="value">your-handle</tspan></text>
+<text x="365.5" y="423.5"><tspan class="key">GitHub.Repos</tspan><tspan class="dim"> ............ </tspan><tspan class="value">2 public · 0 contributed</tspan></text>
+<text x="365.5" y="442.5"><tspan class="key">GitHub.Commits</tspan><tspan class="dim"> .......... </tspan><tspan class="value">0</tspan></text>
+<text x="365.5" y="461.5"><tspan class="key">GitHub.Stars</tspan><tspan class="dim"> ............ </tspan><tspan class="value">0 · 0 forks</tspan></text>
+<text x="365.5" y="480.5"><tspan class="key">GitHub.Followers</tspan><tspan class="dim"> ........ </tspan><tspan class="value">1</tspan></text>
+<text x="365.5" y="499.5"><tspan class="key">GitHub.LinesOfCode</tspan><tspan class="dim"> ...... </tspan><tspan class="value">0 (</tspan><tspan class="add">+0</tspan><tspan class="value">, </tspan><tspan class="del">-0</tspan><tspan class="value">)</tspan></text>
+</svg>

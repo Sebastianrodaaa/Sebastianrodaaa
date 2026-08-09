@@ -1,0 +1,53 @@
+name: Update profile card
+
+on:
+  schedule:
+    # Daily at 00:15 UTC. GitHub delays cron on busy runners, which is fine here.
+    - cron: "15 0 * * *"
+  push:
+    branches: [main]
+    paths:
+      - profile.json
+      - generate_svgs.py
+      - .github/workflows/update-profile.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Generate SVGs
+        env:
+          # A classic PAT with `repo` + `read:user` picks up private contributions
+          # too. Without it we fall back to the built-in token, which only sees
+          # public activity.
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || github.token }}
+        run: python generate_svgs.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add light_mode.svg dark_mode.svg stats_cache.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh profile card"
+            git push
+          fi
