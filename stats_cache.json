@@ -2,12 +2,12 @@
   "account_created": "2024-05-18T17:25:47Z",
   "followers": 1,
   "contributed": 0,
-  "repos": 1,
+  "repos": 2,
   "stars": 0,
   "forks": 0,
-  "commits": 8,
-  "loc_add": 978,
-  "loc_del": 121,
+  "commits": 13,
+  "loc_add": 8347,
+  "loc_del": 376,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
       "additions": 3,
@@ -143,6 +143,11 @@
       "additions": 319192,
       "deletions": 23885,
       "oid": "1a3bb99701a1b63a01341d6d75deb0fb863b2aca"
+    },
+    "Sebastianrodaaa/workbench-portfolio": {
+      "additions": 7369,
+      "deletions": 255,
+      "oid": "a0ce32bebdf2950bfda0e4e0b3c8dab6b2512f88"
     }
   }
 }
