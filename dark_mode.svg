@@ -30,7 +30,7 @@ text { white-space: pre; dominant-baseline: middle; }
 <text x="365.5" y="43.5"><tspan class="accent">sebastian@rodaventuresllc.com</tspan></text>
 <text x="365.5" y="62.5"><tspan class="dim">─────────────────────────────</tspan></text>
 <text x="365.5" y="81.5"><tspan class="key">OS</tspan><tspan class="dim"> ...................... </tspan><tspan class="value">macOS · Ubuntu 24.04 LTS</tspan></text>
-<text x="365.5" y="100.5"><tspan class="key">Uptime</tspan><tspan class="dim"> .................. </tspan><tspan class="value">2 years, 2 months, 27 days (since 18 May 2024)</tspan></text>
+<text x="365.5" y="100.5"><tspan class="key">Uptime</tspan><tspan class="dim"> .................. </tspan><tspan class="value">2 years, 2 months, 28 days (since 18 May 2024)</tspan></text>
 <text x="365.5" y="119.5"><tspan class="key">Host</tspan><tspan class="dim"> .................... </tspan><tspan class="value">Serial Hackathon Winner</tspan></text>
 <text x="365.5" y="138.5"><tspan class="key">Kernel</tspan><tspan class="dim"> .................. </tspan><tspan class="value">full-stack · onchain</tspan></text>
 <text x="365.5" y="157.5"><tspan class="key">Editor</tspan><tspan class="dim"> .................. </tspan><tspan class="value">VS Code · Cursor · Claude Code</tspan></text>
