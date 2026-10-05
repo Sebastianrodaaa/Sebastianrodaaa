@@ -1,13 +1,13 @@
 {
   "account_created": "2024-05-18T17:25:47Z",
   "followers": 2,
-  "contributed": 0,
-  "repos": 7,
+  "contributed": 1,
+  "repos": 8,
   "stars": 0,
   "forks": 0,
-  "commits": 62,
-  "loc_add": 405111,
-  "loc_del": 109568,
+  "commits": 73,
+  "loc_add": 424205,
+  "loc_del": 111095,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
       "additions": 3,
@@ -173,6 +173,11 @@
       "additions": 0,
       "deletions": 0,
       "oid": null
+    },
+    "Sebastianrodaaa/LAWxMISTRAL-Hackathon": {
+      "additions": 19094,
+      "deletions": 1527,
+      "oid": "7e4bac41ab2c864a3a074a9b34445190366b23be"
     }
   }
 }
