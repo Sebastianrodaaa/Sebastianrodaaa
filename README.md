@@ -1,13 +1,4 @@
-<!--
-  This card is generated, not hand-written.
 
-  Edit profile.json to change what it says, then either push (the Action
-  rebuilds on any change to profile.json) or run it yourself:
-
-      ACCESS_TOKEN=<your-pat> python3 generate_svgs.py
-
-  See SETUP.md for the one-time token setup.
--->
 
 <a href="https://github.com/Sebastianrodaaa">
   <picture>
