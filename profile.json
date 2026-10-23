@@ -35,14 +35,13 @@
   ],
 
   "info": [
-    ["OS", "macOS · Ubuntu 24.04 LTS"],
+    ["OS", "macOS · Linux"],
     ["Uptime", "{{uptime}} (since {{account_created}})"],
     ["Host", "Serial Hackathon Winner"],
-    ["Kernel", "full-stack · onchain"],
     ["Editor", "VS Code · Cursor · Claude Code"],
     [],
     ["Languages.Programming", "TypeScript · JavaScript · Python · C · C++"],
-    ["Languages.Spoken", "Spanish · English"],
+    ["Languages.Spoken", "Spanish(B1) · English · French(B1)"],
     [],
     ["Stack.Frontend", "React · Next.js · Swift"],
     ["Stack.Onchain", "Base · Solana · Ethereum"],
