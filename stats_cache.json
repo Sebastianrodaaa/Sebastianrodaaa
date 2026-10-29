@@ -1,13 +1,13 @@
 {
   "account_created": "2024-05-18T17:25:47Z",
-  "followers": 3,
+  "followers": 6,
   "contributed": 1,
-  "repos": 6,
+  "repos": 8,
   "stars": 0,
   "forks": 0,
-  "commits": 516,
-  "loc_add": 153689,
-  "loc_del": 2952,
+  "commits": 555,
+  "loc_add": 170736,
+  "loc_del": 3037,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
       "additions": 3,
@@ -213,6 +213,16 @@
       "additions": 613,
       "deletions": 0,
       "oid": "5706a8427b4460cb267118611826ee6516c8f0ec"
+    },
+    "Sebastianrodaaa/swarm-vs-solo": {
+      "additions": 2056,
+      "deletions": 84,
+      "oid": "119e1b22671168dba8f400b81b9ee9e88e01754c"
+    },
+    "Sebastianrodaaa/self-rewriting-harness": {
+      "additions": 14991,
+      "deletions": 1,
+      "oid": "e20183afaabf7b249612d98d38d31fc6a8ad8d7f"
     }
   }
 }
