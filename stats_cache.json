@@ -2,12 +2,12 @@
   "account_created": "2024-05-18T17:25:47Z",
   "followers": 8,
   "contributed": 1,
-  "repos": 12,
+  "repos": 13,
   "stars": 0,
   "forks": 0,
-  "commits": 586,
-  "loc_add": 180460,
-  "loc_del": 3121,
+  "commits": 611,
+  "loc_add": 184930,
+  "loc_del": 3195,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
       "additions": 3,
@@ -215,9 +215,9 @@
       "oid": "5706a8427b4460cb267118611826ee6516c8f0ec"
     },
     "Sebastianrodaaa/swarm-vs-solo": {
-      "additions": 2056,
-      "deletions": 84,
-      "oid": "119e1b22671168dba8f400b81b9ee9e88e01754c"
+      "additions": 2997,
+      "deletions": 155,
+      "oid": "3b9cc5bff98e27c6d964867625f06be78e02e8a6"
     },
     "Sebastianrodaaa/self-rewriting-harness": {
       "additions": 14991,
@@ -235,14 +235,19 @@
       "oid": "8c435ec8c4ed27f0be93fc4a0e261b9e4d94452c"
     },
     "Sebastianrodaaa/kernelfork": {
-      "additions": 23,
-      "deletions": 0,
-      "oid": "e6988a25eee815fb8fe226964004f4e890182d95"
+      "additions": 1551,
+      "deletions": 1,
+      "oid": "5a035cad64e10d3d7a9eb0d9cd9357ef41bcdc30"
     },
     "Sebastianrodaaa/Proseed-Pilot": {
       "additions": 5493,
       "deletions": 82,
       "oid": "8edc5b524e8d50f6c2115fe658f8711581300aa6"
+    },
+    "Sebastianrodaaa/rinsedlm": {
+      "additions": 2001,
+      "deletions": 2,
+      "oid": "56da36b50cf4dc7febc6a31775e9c36c80769431"
     }
   }
 }
