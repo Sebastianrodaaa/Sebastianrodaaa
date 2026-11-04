@@ -38,7 +38,7 @@
     ["OS", "macOS · Linux"],
     ["Uptime", "{{uptime}} (since {{account_created}})"],
     ["Host", "Serial Hackathon Winner"],
-    ["Editor", "VS Code · Cursor · Claude Code"],
+    ["Editor", "VS Code"],
     [],
     ["Languages.Programming", "TypeScript · JavaScript · Python · C · C++"],
     ["Languages.Spoken", "Spanish(B1) · English · French(B1)"],
