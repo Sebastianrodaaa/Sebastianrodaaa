@@ -1,13 +1,13 @@
 {
   "account_created": "2024-05-18T17:25:47Z",
-  "followers": 10,
+  "followers": 13,
   "contributed": 1,
-  "repos": 16,
+  "repos": 17,
   "stars": 0,
   "forks": 0,
-  "commits": 642,
-  "loc_add": 207209,
-  "loc_del": 3115,
+  "commits": 791,
+  "loc_add": 408561,
+  "loc_del": 136197,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
       "additions": 3,
@@ -15,9 +15,9 @@
       "oid": "9f7cdf343cc4717a06e632a0d1b59d423dfef920"
     },
     "Sebastianrodaaa/Sebastianrodaaa": {
-      "additions": 981,
-      "deletions": 134,
-      "oid": "e48fc61ab56c63dafd8b6e0f89ac7bb92e1bb99a"
+      "additions": 982,
+      "deletions": 135,
+      "oid": "fade20bce69babb41bf15e2b034e04008a1076c2"
     },
     "Sebastianrodaaa/Arc": {
       "additions": 76846,
@@ -85,9 +85,9 @@
       "oid": "f0370034e7831709d4fe3099d25aeb363168643b"
     },
     "Sebastianrodaaa/org-simulator": {
-      "additions": 14557,
-      "deletions": 1828,
-      "oid": "926d68d26084c041e13db73859584d3318ae819e"
+      "additions": 14561,
+      "deletions": 6817,
+      "oid": "54171456046a78b2bdd4447b67a4425cb25dcd3e"
     },
     "Sebastianrodaaa/DRONE-DEMO": {
       "additions": 0,
@@ -115,9 +115,9 @@
       "oid": "a920e3281f4621730aa2f4edc9b5c43364937860"
     },
     "Sebastianrodaaa/EDTHHACK": {
-      "additions": 131477,
-      "deletions": 386,
-      "oid": "8f57b20c6b73c07ca54b7dccaac7ea45c03af485"
+      "additions": 131478,
+      "deletions": 119397,
+      "oid": "35b6edff908794ddc92603b6ebc9ce2cb09ecb21"
     },
     "Sebastianrodaaa/LIT_WIKI": {
       "additions": 11916,
@@ -191,8 +191,8 @@
     },
     "Sebastianrodaaa/dream-quant": {
       "additions": 2364,
-      "deletions": 262,
-      "oid": "6fdde95f304426370ea91decfff0a2c20dd8bcff"
+      "deletions": 263,
+      "oid": "9f133ae519893e82089861426a8aa3d42c32c5df"
     },
     "Sebastianrodaaa/due-diligence-agents-ACCEL-main": {
       "additions": 177951,
@@ -245,9 +245,9 @@
       "oid": "8edc5b524e8d50f6c2115fe658f8711581300aa6"
     },
     "Sebastianrodaaa/rinsedlm": {
-      "additions": 2001,
-      "deletions": 2,
-      "oid": "56da36b50cf4dc7febc6a31775e9c36c80769431"
+      "additions": 2002,
+      "deletions": 3,
+      "oid": "15174515d5851f8dcd5ddd0af15b4711d70c7f7e"
     },
     "Sebastianrodaaa/client-workflow-atlas": {
       "additions": 2789,
@@ -255,24 +255,29 @@
       "oid": "97c9ac7f3a657bbe1d0123afbec02708aedb63d6"
     },
     "Sebastianrodaaa/harnesslag": {
-      "additions": 246,
-      "deletions": 0,
-      "oid": "4b2bc777c2069b60f69d09c1c23b71e0762929c9"
+      "additions": 6914,
+      "deletions": 15,
+      "oid": "7791c1634f1ecd52871969cd94423d3b378bf48d"
     },
     "Sebastianrodaaa/quantlag": {
-      "additions": 27130,
-      "deletions": 2,
-      "oid": "a63fe7337e07e30d41337c2149fed3f408c815d1"
+      "additions": 53888,
+      "deletions": 107,
+      "oid": "76d6769634546d573c350092d2d7069582a3adb2"
     },
     "Sebastianrodaaa/prefixgate": {
-      "additions": 251,
-      "deletions": 0,
-      "oid": "b131efc9a434d8f5f345ba5772dbc42433c5a202"
+      "additions": 121946,
+      "deletions": 8941,
+      "oid": "a5abd3a0f6b61e248d1b9d78cad9eeaeb7ae1417"
     },
     "Sebastianrodaaa/skilladmit": {
-      "additions": 145,
-      "deletions": 0,
-      "oid": "6ef99a7b85bc63d715db52b3bdc999dbf13dc5a4"
+      "additions": 4192,
+      "deletions": 14,
+      "oid": "bc8d144790f769eab065903af2734db886f6d053"
+    },
+    "Sebastianrodaaa/haltgate": {
+      "additions": 42177,
+      "deletions": 4,
+      "oid": "cfb047b68e42a79df25e7caf3d6e9803dbdfde81"
     }
   }
 }
