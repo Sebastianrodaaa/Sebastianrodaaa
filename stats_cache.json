@@ -1,13 +1,13 @@
 {
   "account_created": "2024-05-18T17:25:47Z",
-  "followers": 13,
+  "followers": 14,
   "contributed": 1,
   "repos": 17,
   "stars": 0,
   "forks": 0,
-  "commits": 791,
-  "loc_add": 408561,
-  "loc_del": 136197,
+  "commits": 1277,
+  "loc_add": 306799,
+  "loc_del": 11364,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
       "additions": 3,
@@ -17,7 +17,7 @@
     "Sebastianrodaaa/Sebastianrodaaa": {
       "additions": 982,
       "deletions": 135,
-      "oid": "fade20bce69babb41bf15e2b034e04008a1076c2"
+      "oid": "41f17e7fcea17313d40929046fed27793ffbfd0e"
     },
     "Sebastianrodaaa/Arc": {
       "additions": 76846,
@@ -85,9 +85,9 @@
       "oid": "f0370034e7831709d4fe3099d25aeb363168643b"
     },
     "Sebastianrodaaa/org-simulator": {
-      "additions": 14561,
-      "deletions": 6817,
-      "oid": "54171456046a78b2bdd4447b67a4425cb25dcd3e"
+      "additions": 8778,
+      "deletions": 1034,
+      "oid": "7bee9dd88b6126e11fa1d4575add7d4ca6776970"
     },
     "Sebastianrodaaa/DRONE-DEMO": {
       "additions": 0,
@@ -115,9 +115,9 @@
       "oid": "a920e3281f4621730aa2f4edc9b5c43364937860"
     },
     "Sebastianrodaaa/EDTHHACK": {
-      "additions": 131478,
-      "deletions": 119397,
-      "oid": "35b6edff908794ddc92603b6ebc9ce2cb09ecb21"
+      "additions": 12334,
+      "deletions": 255,
+      "oid": "35269d173a7fc5d5a9268cc7fe61ec5d584f1242"
     },
     "Sebastianrodaaa/LIT_WIKI": {
       "additions": 11916,
@@ -192,7 +192,7 @@
     "Sebastianrodaaa/dream-quant": {
       "additions": 2364,
       "deletions": 263,
-      "oid": "9f133ae519893e82089861426a8aa3d42c32c5df"
+      "oid": "7777f73965871d22ef7907095578ea172f03136f"
     },
     "Sebastianrodaaa/due-diligence-agents-ACCEL-main": {
       "additions": 177951,
@@ -202,7 +202,7 @@
     "Sebastianrodaaa/daydream": {
       "additions": 3697,
       "deletions": 342,
-      "oid": "286e19a5e521c80c39afa1acf8696c1e6764020e"
+      "oid": "ce130d36d783b7031e58ff5dd368a082c5e6cfa4"
     },
     "Sebastianrodaaa/Cleary_Pilot_1": {
       "additions": 22146,
@@ -212,32 +212,32 @@
     "Sebastianrodaaa/quantization-eval-sst2": {
       "additions": 613,
       "deletions": 0,
-      "oid": "5706a8427b4460cb267118611826ee6516c8f0ec"
+      "oid": "036f645a9d2eca597a0723a4ddf8dc03a92c51eb"
     },
     "Sebastianrodaaa/swarm-vs-solo": {
-      "additions": 2997,
-      "deletions": 155,
-      "oid": "3b9cc5bff98e27c6d964867625f06be78e02e8a6"
+      "additions": 5030,
+      "deletions": 239,
+      "oid": "906af6616fa420a4d6b76575a9ca18d5770651b3"
     },
     "Sebastianrodaaa/self-rewriting-harness": {
-      "additions": 14991,
-      "deletions": 1,
-      "oid": "e20183afaabf7b249612d98d38d31fc6a8ad8d7f"
+      "additions": 29962,
+      "deletions": 5,
+      "oid": "7b433518405bd7d3a814c82525d9c0d161f1e67d"
     },
     "Sebastianrodaaa/verimask": {
-      "additions": 2138,
-      "deletions": 1,
-      "oid": "ccabd9879788d568d19c6376d0d300b7bffde11e"
+      "additions": 4253,
+      "deletions": 2,
+      "oid": "d5f6e73982dfde055ad21291ee9abb9dc88bab07"
     },
     "Sebastianrodaaa/palimdiff": {
-      "additions": 2070,
-      "deletions": 1,
-      "oid": "8c435ec8c4ed27f0be93fc4a0e261b9e4d94452c"
+      "additions": 4117,
+      "deletions": 2,
+      "oid": "3a1e2b2b2efec0521e11eeba6fce545c615086b2"
     },
     "Sebastianrodaaa/kernelfork": {
       "additions": 1551,
       "deletions": 1,
-      "oid": "5a035cad64e10d3d7a9eb0d9cd9357ef41bcdc30"
+      "oid": "db05559047987aba6e0ed7374740f6f9ca353bb8"
     },
     "Sebastianrodaaa/Proseed-Pilot": {
       "additions": 5493,
@@ -245,9 +245,9 @@
       "oid": "8edc5b524e8d50f6c2115fe658f8711581300aa6"
     },
     "Sebastianrodaaa/rinsedlm": {
-      "additions": 2002,
-      "deletions": 3,
-      "oid": "15174515d5851f8dcd5ddd0af15b4711d70c7f7e"
+      "additions": 4001,
+      "deletions": 5,
+      "oid": "3c414ba801747933df5f61b3aaa701004284216a"
     },
     "Sebastianrodaaa/client-workflow-atlas": {
       "additions": 2789,
