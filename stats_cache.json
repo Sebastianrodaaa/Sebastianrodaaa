@@ -1,12 +1,12 @@
 {
   "account_created": "2024-05-18T17:25:47Z",
-  "followers": 13,
+  "followers": 12,
   "contributed": 1,
-  "repos": 18,
+  "repos": 19,
   "stars": 0,
   "forks": 1,
-  "commits": 1307,
-  "loc_add": 326331,
+  "commits": 1329,
+  "loc_add": 326352,
   "loc_del": 11638,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
@@ -283,6 +283,11 @@
       "additions": 19532,
       "deletions": 274,
       "oid": "3942fb31b8c80ad2edcdde237c55126a874c2c17"
+    },
+    "Sebastianrodaaa/shoshin": {
+      "additions": 21,
+      "deletions": 0,
+      "oid": "9fdd51813771c0dd1478e7b0d8ec35fb208bb6cd"
     }
   }
 }
