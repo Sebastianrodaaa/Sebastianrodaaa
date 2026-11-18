@@ -1,13 +1,13 @@
 {
   "account_created": "2024-05-18T17:25:47Z",
-  "followers": 13,
+  "followers": 14,
   "contributed": 1,
-  "repos": 19,
+  "repos": 21,
   "stars": 0,
   "forks": 1,
-  "commits": 1491,
-  "loc_add": 326352,
-  "loc_del": 11638,
+  "commits": 1510,
+  "loc_add": 332884,
+  "loc_del": 11655,
   "loc": {
     "Sebastianrodaaa/arc-rain-monad": {
       "additions": 3,
@@ -288,6 +288,16 @@
       "additions": 21,
       "deletions": 0,
       "oid": "9fdd51813771c0dd1478e7b0d8ec35fb208bb6cd"
+    },
+    "Sebastianrodaaa/open-hunter": {
+      "additions": 2258,
+      "deletions": 0,
+      "oid": "60ba6e619c19deba571d7d4e583cfe75be1b3a82"
+    },
+    "Sebastianrodaaa/twitch": {
+      "additions": 4274,
+      "deletions": 17,
+      "oid": "457ec7fcbe4181db4c374971be23b4311522e9d3"
     }
   }
 }
